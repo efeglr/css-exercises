@@ -24,3 +24,23 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* my solution */
+.heading {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+.section {
+  display: flex;
+  justify-content: center;
+  flex-basis: 200px;
+  gap: 52px;
+  padding-left: 72px;
+  padding-right: 72px;
+}
+
+.block-1,.block-2,.block-3,.block-4 {
+  width: 200px;
+}
+
